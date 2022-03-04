@@ -18,5 +18,5 @@ The Pizza-Price-Prediction is a machine learning app that pridicts the price of 
 ### Find me on LinkedIn below :purple_heart:
 https://www.linkedin.com/in/clareobr/
 
-![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username==clareob5&show_icons=true&theme=radical)
+![Clare's GitHub stats](https://github-readme-stats.vercel.app/api?username=clareob5&show_icons=true&theme=radical)
 
