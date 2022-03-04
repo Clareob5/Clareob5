@@ -1,6 +1,6 @@
 Hi, I am a final year student in Creative Computing in Dun Laoghaire. I enjoy learning new languages and have all my college projects on my repository.
 
-I code mainly using Python JavaScript and PHP
+I code mainly using Python JavaScript and PHP. I am currently working on my skills with Deep learning and CNN.
 
 My pinned projects are my most recent works
 The 3rdYearProject and CA1-MedicalCentre are both full stack Laravel projects in PHP with Blade Templates. Both projects have CRUD functionality. In the 3rdYearProject I implemeneted an API to do movie recommendations for users and groups of users.
