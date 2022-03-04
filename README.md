@@ -9,11 +9,11 @@ The College_vue application can be viewed using this link: https://college-vue-c
 
 The React-App-CA2 can be viewed using this link: https://cob-restaurant-react.web.app/
 
-The Pizza-Price-Prediction is a machine learning app that pridicts the price of pizza based on dfferent parameters and it also checks different regression algorithms against eachother ie XGBoost against Linear Regression
+The Pizza-Price-Prediction is a machine learning app that pridicts the price of pizza based on dfferent parameters and it also checks different regression algorithms against eachother ie XGBoost against Linear Regression.
 
 ## Heres my Top used languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clareob5&layout=compact)](https://github.com/clareob5/github-readme-stats)
 
 ### Find me on LinkedIn below
- /linkedin.com/in/clareobr
+https://www.linkedin.com/in/clareobr/
 
