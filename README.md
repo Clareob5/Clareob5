@@ -1,7 +1,7 @@
 ### Hi, I'm Clare O'Brien :wave:
 
 I am a final year student in Creative Computing in Dun Laoghaire. I enjoy learning new languages and have all my college projects on my repository.
-I code mainly using Python JavaScript and PHP. I am currently working on my skills with Deep learning and CNN.
+I code mainly using Python, JavaScript and PHP. I am currently working on my skills with Deep learning and CNN.
 
 ## Heres my Top used languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clareob5&layout=compact)](https://github.com/clareob5/github-readme-stats)
