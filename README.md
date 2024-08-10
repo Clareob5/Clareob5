@@ -9,10 +9,6 @@ I code mainly using Python, JavaScript and PHP. I am currently working on my ski
 ## My pinned projects are my most recent works
 The 3rdYearProject and CA1-MedicalCentre are both full stack Laravel projects in PHP with Blade Templates. Both projects have CRUD functionality. In the 3rdYearProject I implemeneted an API to do movie recommendations for users and groups of users.
 
-The College_vue application can be viewed using this link: https://college-vue-cob.web.app/
-
-The React-App-CA2 can be viewed using this link: https://cob-restaurant-react.web.app/
-
 The Pizza-Price-Prediction is a machine learning app that pridicts the price of pizza based on dfferent parameters and it also checks different regression algorithms against eachother ie XGBoost against Linear Regression.
 
 ### Find me on LinkedIn below :purple_heart:
